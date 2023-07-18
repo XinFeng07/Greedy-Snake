@@ -2,7 +2,7 @@
 #include<iostream>
 #include<cstring>
 #include<stdlib.h>
-#define MAXN 10
+#define MAXN 10000
 int a[MAXN][MAXN];
 int main()
 { 
